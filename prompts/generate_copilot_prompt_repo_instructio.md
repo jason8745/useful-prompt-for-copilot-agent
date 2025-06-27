@@ -38,3 +38,9 @@ Please analyze the **entire codebase** in this repository and generate a compreh
 5. Do not make assumptions. Only infer patterns and usage based on actual project content and dependencies.
 
 Output the final result as a valid markdown file, ready to be saved as `.github/copilot-instructions.md`.
+
+---
+
+<!--
+Moved the prompt file to the /prompts directory for better organization.
+-->

@@ -1,4 +1,4 @@
-<!-- filepath: /Users/yujun_wen/Documents/GitHub/Yujun/useful-prompt-for-copilot-agent/help_agent_to_review_all_project.md -->
+<!-- filepath: /Users/yujun_wen/Documents/GitHub/Yujun/useful-prompt-for-copilot-agent/prompts/help_agent_to_review_all_project.md -->
 
 # 🔍 Prompt: （Project-level）Prompt/Documentation Review
 
