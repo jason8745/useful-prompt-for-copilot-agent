@@ -13,6 +13,12 @@ This repository is dedicated to managing and version-controlling prompt template
 - **single_file_analysis.md**  
   Prompt for reviewing and improving a single prompt or documentation file for clarity, structure, and best practices.
 
+- **test_improvement.md**  
+  Prompt template for improving test coverage, quality, and implementation in software projects.
+
+- **write_blog_directions.md**  
+  Professional blog writing prompt for creating SEO-optimized Chinese technical articles based on GitHub projects.
+
 ## Usage
 
 - Use these prompt templates to guide Copilot or other LLM agents in reviewing, maintaining, or generating prompt/documentation resources.
